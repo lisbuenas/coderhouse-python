@@ -9,7 +9,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### 📋 Pré-requisitos
 
-Python 3.11
+Python 3.11 instalado, contendo o workenv
 
 
 ### 🔧 Instalação
@@ -24,7 +24,6 @@ pip install -r requirements.txt
 No VSCode selecionar o ambiente com Ctrl + Shift + P -> Phython: Select Interpreter, e selecione o ambiente adicionado
 
 
-
 ## 🛠️ Construído com
 
 Pandas para extração do dataframe e manipulação dos dados (agrupamento, tratamento de dados nulos)
@@ -35,7 +34,7 @@ sqlite3 - Para o banco de dados
 
 ## 📌 Versão
 
-
+Versão 1.0 do projeto
 
 ## ✒️ Autores
 
@@ -46,6 +45,6 @@ Felipe Lisboa
 
 Creative commons  - Permitido o uso sem autorização prévia
 
-## 🎁 Expressões de gratidão
+## 🎁 Agradecimentos
 
 * Agradecimento a equipe Coderhouse pela oportunidade de realizar o curso e pela qualidade do conteúdo ofertado
