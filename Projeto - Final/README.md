@@ -24,7 +24,7 @@ pip install -r requirements.txt
 No VSCode selecionar o ambiente com Ctrl + Shift + P -> Phython: Select Interpreter, e selecione o ambiente adicionado
 
 
-## 🛠️ Construído com
+## 🛠️ Construído com Python
 
 Pandas para extração do dataframe e manipulação dos dados (agrupamento, tratamento de dados nulos)
 plyer - Para envio de notificações do sistema
